@@ -1,0 +1,7 @@
+{
+  "name": "InvestIQ - AI Financial Strategist",
+  "description": "A high-end investment analysis and strategy platform powered by Gemini AI, providing real-time market insights, risk-adjusted rankings, and scenario stress testing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
